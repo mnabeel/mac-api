@@ -1,0 +1,14 @@
+/Users/muhammadnabeel/aspnetcore/mac-api/bin/Debug/netcoreapp2.1/mac-api.deps.json
+/Users/muhammadnabeel/aspnetcore/mac-api/bin/Debug/netcoreapp2.1/mac-api.runtimeconfig.json
+/Users/muhammadnabeel/aspnetcore/mac-api/bin/Debug/netcoreapp2.1/mac-api.runtimeconfig.dev.json
+/Users/muhammadnabeel/aspnetcore/mac-api/bin/Debug/netcoreapp2.1/mac-api.dll
+/Users/muhammadnabeel/aspnetcore/mac-api/bin/Debug/netcoreapp2.1/mac-api.pdb
+/Users/muhammadnabeel/aspnetcore/mac-api/obj/Debug/netcoreapp2.1/mac-api.csprojAssemblyReference.cache
+/Users/muhammadnabeel/aspnetcore/mac-api/obj/Debug/netcoreapp2.1/mac-api.csproj.CoreCompileInputs.cache
+/Users/muhammadnabeel/aspnetcore/mac-api/obj/Debug/netcoreapp2.1/mac-api.RazorAssemblyInfo.cache
+/Users/muhammadnabeel/aspnetcore/mac-api/obj/Debug/netcoreapp2.1/mac-api.RazorAssemblyInfo.cs
+/Users/muhammadnabeel/aspnetcore/mac-api/obj/Debug/netcoreapp2.1/mac-api.AssemblyInfoInputs.cache
+/Users/muhammadnabeel/aspnetcore/mac-api/obj/Debug/netcoreapp2.1/mac-api.AssemblyInfo.cs
+/Users/muhammadnabeel/aspnetcore/mac-api/obj/Debug/netcoreapp2.1/mac-api.RazorTargetAssemblyInfo.cache
+/Users/muhammadnabeel/aspnetcore/mac-api/obj/Debug/netcoreapp2.1/mac-api.dll
+/Users/muhammadnabeel/aspnetcore/mac-api/obj/Debug/netcoreapp2.1/mac-api.pdb
